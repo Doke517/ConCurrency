@@ -1,6 +1,5 @@
 package com.ablefull.concurrency.example.publish;
 
-import com.ablefull.concurrency.annotations.ThreadSafe;
 import com.ablefull.concurrency.annotations.ThreadUnSafe;
 import lombok.extern.slf4j.Slf4j;
 
